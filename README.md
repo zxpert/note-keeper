@@ -1,4 +1,4 @@
-<h1>Source Code for Laravel 11 Crash Course</h1>
+<h1>Source Code for Laravel 11 NOTE-KEEPER APP</h1>
 
 A simple personal notes manager application, inside which can register, login and create personal notes.
 <h1>Installation</h1>
